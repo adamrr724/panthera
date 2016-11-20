@@ -1,0 +1,48 @@
+name = Keen
+description = Minimalistic Photography and Portfolio Theme
+version = 1.0.0
+core = 7.x
+
+stylesheets[all][] = css/system.base.css
+stylesheets[all][] = css/bootstrap.min.css
+stylesheets[all][] = css/photoswipe.css
+stylesheets[all][] = css/default-skin/default-skin.css
+stylesheets[all][] = css/font-awesome.min.css
+stylesheets[all][] = css/font.css
+stylesheets[all][] = css/animsition.min.css
+stylesheets[all][] = css/style.css
+
+;necessary regions
+regions[main_menu] = Main menu
+regions[help] = Help
+regions[page_top] = Page top
+regions[page_bottom] = Page bottom
+
+;standard regions
+regions[content] = Content
+
+settings[shortcut_module_link] = 0
+
+settings[cocoon_about_page_title] = About Us
+settings[cocoon_about_page_body] = Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis explicabo reprehenderit suscipit aspernatur, illo quo ipsa aliquid corporis possimus commodi repellendus distinctio rem deleniti ut praesentium veritatis, neque, voluptates sunt.
+settings[cocoon_about_page_link_text] = Contact us
+settings[cocoon_about_page_link_url] = contact
+settings[cocoon_albums_page_title] = Back to albums
+settings[cocoon_albums_page_url] = ../work
+settings[cocoon_contact_page_title] = Get in touch
+settings[cocoon_contact_page_body] = Curabitur bibendum mi sed rhoncus aliquet. Nulla blandit porttitor justo, at posuere sem accumsan nec. Sed non arcu non sem commodo ultricies. Sed non nisi viverra, porttitor sem nec, vestibulum justo tortor ornare turpis faucibus.
+settings[cocoon_contact_page_form_title] = Have a question?
+settings[cocoon_contact_page_email_title] = Email
+settings[cocoon_contact_page_email_address] = say_hello@nrgfolio.com
+settings[cocoon_contact_page_phone_title] = Phone
+settings[cocoon_contact_page_phone_number] = +38 (555) 123 9876
+settings[cocoon_contact_page_address_title] = Address
+settings[cocoon_contact_page_address_full] = 244 5th Avenue. Suite 1735
+settings[cocoon_footer_text] = &copy;2015 All right reserved. KEEN
+settings[cocoon_footer_fb] = http://themeforest.net/user/createdbycocoon/portfolio?ref=createdbycocoon
+settings[cocoon_footer_twitter] = http://themeforest.net/user/createdbycocoon/portfolio?ref=createdbycocoon
+settings[cocoon_footer_pin] = http://themeforest.net/user/createdbycocoon/portfolio?ref=createdbycocoon
+settings[cocoon_footer_dribbble] = http://themeforest.net/user/createdbycocoon/portfolio?ref=createdbycocoon
+settings[cocoon_footer_gplus] = http://themeforest.net/user/createdbycocoon/portfolio?ref=createdbycocoon
+settings[map_latitude] = 43.653226
+settings[map_longitude] = -79.383184
