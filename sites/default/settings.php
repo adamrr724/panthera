@@ -213,14 +213,14 @@
  * @endcode
  */
 $databases = array (
-  'default' => 
+  'default' =>
   array (
-    'default' => 
+    'default' =>
     array (
       'database' => 'photo',
       'username' => 'root',
-      'password' => 'root',
-      'host' => 'localhost',
+      'password' => 'Purple!28',
+      'host' => 'http://35.188.203.98/',
       'port' => '',
       'driver' => 'mysql',
       'prefix' => '',
